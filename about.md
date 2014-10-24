@@ -5,6 +5,9 @@ permalink: /about/
 published: true
 ---
 
+
+---
+
 # Nicola Marangoni #
 
 ---
@@ -23,3 +26,5 @@ Nationality: Italian & German
 | Design, Development and Scheduling of ETL Processes | Expert
 | Reporting and Web Reporting, OLAP | Expert
 | Design and Development of Business Intelligence Web-Applications | Experienced
+---
+
