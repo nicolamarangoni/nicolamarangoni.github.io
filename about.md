@@ -15,7 +15,7 @@ Born on: 26. October 1972
 Nationality: Italian & German
 
 ---
-|** Core Competences ** |||
+|** Core Competences ** | | |
 | -- | -- | -- |
 |**Industries** | Telecommunications, E-Commerce | Expert |
 || Pharmacy, Chemistry, Logistics | Experienced |
