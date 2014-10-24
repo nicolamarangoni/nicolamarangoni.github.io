@@ -16,9 +16,9 @@ Nationality: Italian & German
 
 ---
 
-| ** Core Competences ** | | |
+| Core Competences | | |
 | -- | -- | -- |
-| **Industries** | Telecommunications, E-Commerce | Expert |
+| Industries | Telecommunications, E-Commerce | Expert |
 
 ---
 
