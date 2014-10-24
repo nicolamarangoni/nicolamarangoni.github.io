@@ -12,5 +12,7 @@ Nationality: Italian & German
 ---
 Core Competence |||
 -- | -- | --
-**Industries** | Telecommunications, E-Commerce | Expert
-| Pharmacy, Chemistry, Logistics | Experienced
+**Industries**     | Telecommunications, E-Commerce | Expert
+                   | Pharmacy, Chemistry, Logistics | Experienced
+**Business Focus** | CRM, Risk Management, Customer Decisioning | Expert
+**Business Focus** | Campaign Management, Controlling, Billing, Marketing | Experienced
