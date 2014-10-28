@@ -5,7 +5,6 @@ permalink: /about/
 published: true
 ---
 
-
 ---
 
 # Nicola Marangoni #
@@ -19,6 +18,6 @@ Nationality: Italian & German
 | Core Competences | | |
 | -- | -- | -- |
 | Industries | Telecommunications, E-Commerce | Expert |
+| Industries | Telecommunications, E-Commerce | Expert |
 
 ---
-
