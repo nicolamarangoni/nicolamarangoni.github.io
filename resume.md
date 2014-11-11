@@ -15,7 +15,7 @@ Nationality: Italian & German
 
 ---
 
-| **Competences** | |
+| | |
 | -- | -- |
 | **Core Competences** | |
 | **Technical** | Design and Development of Relational Databases
