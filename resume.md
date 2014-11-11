@@ -29,4 +29,17 @@ Nationality: Italian & German
 | **Industries** | Telecommunications, E-Commerce |
 | | Pharmacy, Chemistry, Logistics |
 
+| Technical Competences | |
+| -- | -- |
+| **Methodical** | Relational Database Design |
+| | OO Modeling, Project Management |
+| **Technologies ** | Databases (Oracle, MySQL, PostgreSQL, SQL Server, SAP HANA, IBM DB2) |
+| | Database Languages (SQL, Oracle PL/SQL, T-SQL) |
+| | ETL Applications (SAP DS, Informatica, Microsoft SSIS) |
+| | Reporting Applications (Cognos, Business Objects, Microsoft SSRS and SSAS) |
+| | Java Platform (Java SE, Java EE) |
+| | Programming Languages (Php, Perl, Python) |
+| | Web and XML Technologies (HTML, JavaScript, AJAX, XSL) |
+|  **Special Interests** | Open Source Software, Social Media, Cloud Computing |
+
 ---
