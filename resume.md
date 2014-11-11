@@ -33,7 +33,7 @@ Nationality: Italian & German
 | **Technical Competences** | |
 | **Methodical** | Relational Database Design |
 | | OO Modeling, Project Management |
-| **Technologies ** | Databases (Oracle, MySQL, PostgreSQL, SQL Server, IBM DB2) |
+| **Technologies** | Databases (Oracle, MySQL, PostgreSQL, SQL Server, IBM DB2) |
 | | Database Languages (SQL, Oracle PL/SQL, T-SQL) |
 | | ETL Applications (SAP DS, Informatica, Microsoft SSIS) |
 | | Reporting Applications (Cognos, Business Objects, Microsoft SSRS and SSAS) |
