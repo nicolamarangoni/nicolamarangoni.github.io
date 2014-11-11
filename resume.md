@@ -29,6 +29,7 @@ Nationality: Italian & German
 | **Industries** | Telecommunications, E-Commerce |
 | | Pharmacy, Chemistry, Logistics |
 
+
 | Technical Competences | |
 | -- | -- |
 | **Methodical** | Relational Database Design |
