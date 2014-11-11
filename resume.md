@@ -15,9 +15,12 @@ Nationality: Italian & German
 
 ---
 
-| Core Competences | | |
+| Core Competences | |
 | -- | -- | -- |
-| Industries | Telecommunications, E-Commerce | Expert |
-|  | Telecommunications, E-Commerce | Expert |
+| Technical | Design and Development of Relational Databases
+| | Design, Development and Scheduling of ETL Processes |
+| | Reporting and Web Reporting, OLAP |
+| | Design and Development of Business Intelligence Web-Applications |
+| | Administration and Tuning of Oracle Databases |
 
 ---
