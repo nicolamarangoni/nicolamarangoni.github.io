@@ -15,7 +15,7 @@ Nationality: Italian & German
 
 ---
 
-| Core Competences | |
+| **Core Competences** | |
 | -- | -- |
 | **Technical** | Design and Development of Relational Databases
 | | Design, Development and Scheduling of ETL Processes |
@@ -28,10 +28,9 @@ Nationality: Italian & German
 | | |
 | **Industries** | Telecommunications, E-Commerce |
 | | Pharmacy, Chemistry, Logistics |
-
-
-| Technical Competences | |
-| -- | -- |
+| | |
+| | |
+| **Technical Competences** | |
 | **Methodical** | Relational Database Design |
 | | OO Modeling, Project Management |
 | **Technologies ** | Databases (Oracle, MySQL, PostgreSQL, SQL Server, IBM DB2) |
