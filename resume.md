@@ -26,4 +26,5 @@ Nationality: Italian & German
 | | Controlling, Billing, Marketing |
 | Industries | Telecommunications, E-Commerce |
 | | Pharmacy, Chemistry, Logistics |
+
 ---
