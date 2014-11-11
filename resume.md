@@ -17,7 +17,6 @@ Nationality: Italian & German
 
 | Core Competences | |
 | -- | -- |
-| | |
 | **Technical** | Design and Development of Relational Databases
 | | Design, Development and Scheduling of ETL Processes |
 | | Reporting and Web Reporting, OLAP |
