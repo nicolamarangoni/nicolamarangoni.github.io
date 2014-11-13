@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Open BI Version 0.2 Released!"
+date: 2014-11-13 12:38:30
+categories: releases
+published: true
+---
+Release 0.2 of the Open BI library is now available:  
+[https://github.com/opendatakraken/openbi/releases/tag/v0.2](https://github.com/opendatakraken/openbi/releases/tag/v0.2)  
+Please have a look at the release notes for more information.
