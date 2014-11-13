@@ -11,4 +11,4 @@ linkedin_profile: nicola-marangoni/0/41a/801
 xing_profile: Nicola_Marangoni
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
