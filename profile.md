@@ -32,7 +32,8 @@ published: true
 | | Cloud Computing |
 | | Cryptocurrencies |
 | | |
-| **Business Focus** | CRM, Risk Management, Customer Decisioning, Campaign Management |
+| **Business Focus** | |
+| **Themes** | CRM, Risk Management, Customer Decisioning, Campaign Management |
 | | Controlling, Billing, Marketing |
 | | |
 | **Industries** | Telecommunications, E-Commerce |
