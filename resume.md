@@ -10,10 +10,6 @@ published: true
 # Nicola Marangoni #
 
 ---
-Born on: 26. October 1972  
-Nationality: Italian & German
-
----
 
 | | |
 | -- | -- |
