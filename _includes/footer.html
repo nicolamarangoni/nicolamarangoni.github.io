@@ -36,6 +36,16 @@
           <li>
             <a href="https://www.linkedin.com/pub/{{ site.linkedin_profile }}">
               <span>{% include icons/linkedin12.svg %}</span>
+              <span>LinkedIn profile</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.xing_profile %}
+          <li>
+            <a href="https://www.xing.com/profile/{{ site.xing_profile }}">
+              <span>{% include icons/xing.svg %}</span>
+              <span>XING profile</span>
             </a>
           </li>
           {% endif %}
