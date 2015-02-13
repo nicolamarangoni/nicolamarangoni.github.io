@@ -19,6 +19,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: email
+    url: mailto:nicola.marangoni
+  - title: skype
+    url: skype:nicola.marangoni
   - title: github
     url: https://github.com/nicolamarangoni
   - title: bitbucket
@@ -29,8 +33,6 @@ social:
     url: https://www.linkedin.com/pub/nicola-marangoni/0/41a/801
   - title: xing
     url: https://www.xing.com/profile/Nicola_Marangoni
-  - title: skype
-    url: skype:nicola.marangoni
   - title: twitter
     url: https://twitter.com/nicolamarangoni
   - title: facebook
