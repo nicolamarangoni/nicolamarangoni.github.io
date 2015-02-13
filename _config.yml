@@ -44,7 +44,7 @@ address:
   - line: Germany
 
 # Credits content
-credits: 'Email: nicola.marangoni@gmail.com Skype: nicola.marangoni'
+credits: 'Email: mailto:nicola.marangoni@gmail.com Skype: skype:nicola.marangoni'
 
 # Build settings
 markdown: kramdown
