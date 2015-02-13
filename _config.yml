@@ -30,7 +30,7 @@ social:
   - title: xing
     url: https://www.xing.com/profile/Nicola_Marangoni
   - title: skype
-    url: https://www.xing.com/profile/Nicola_Marangoni
+    url: nicola.marangoni
   - title: twitter
     url: https://twitter.com/nicolamarangoni
   - title: facebook
@@ -44,7 +44,7 @@ address:
   - line: Germany
 
 # Credits content
-credits: 'Email: mailto:nicola.marangoni@gmail.com Skype: skype:nicola.marangoni'
+credits: 'Email: nicola.marangoni@gmail.com Skype: nicola.marangoni'
 
 # Build settings
 markdown: kramdown
