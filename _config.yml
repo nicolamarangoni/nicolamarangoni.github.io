@@ -19,7 +19,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: mail
+  - title: mail-forward
     url: mailto:nicola.marangoni
   - title: skype
     url: skype:nicola.marangoni
