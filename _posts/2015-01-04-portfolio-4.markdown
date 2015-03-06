@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2015-01-01
+img: game.png
+alt: image-alt
+project-date: 2015
+client: Marangoni
+category: Competences
+title: Software Engineering
+description: Hands-on experiece in software engineering using well-known technologies like the Eclipse IDE, the Gradle build tool, the Subversion and Git revision control systems. Good knowledge of Atlassian Confluence and Jira (included installation and administration).
+
+---
