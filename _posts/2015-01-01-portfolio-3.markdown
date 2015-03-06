@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2015-01-01
+img: circus.png
+alt: image-alt
+project-date: 2015
+client: Marangoni
+category: Competences
+title: Business Intelligence
+description: 15-year experience in Business Intelligence. Proficiency in SAP Business Objects and IBM Cognos. Knowledge of other reporting tools like Microstrategy and Microsoft SSRS
+
+---
