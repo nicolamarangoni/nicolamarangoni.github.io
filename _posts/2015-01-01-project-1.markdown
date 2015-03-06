@@ -7,6 +7,7 @@ alt: image-alt
 project-date: 2015
 client: marangoni
 category: Data Warehousing
+title: Data Warehousing
 description: 15-year expertise in the modeling, development and maintenance of medium- until big-sized data warehouses
 
 ---
