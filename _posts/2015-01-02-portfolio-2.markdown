@@ -4,7 +4,7 @@ modal-id: 2
 date: 2015-01-01
 img: cake.png
 alt: image-alt
-project-date: 2015
+project-date: 2015-01-02
 client: Marangoni
 category: Competences
 title: ETL

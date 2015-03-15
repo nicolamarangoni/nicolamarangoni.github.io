@@ -4,7 +4,7 @@ modal-id: 5
 date: 2015-01-01
 img: safe.png
 alt: image-alt
-project-date: 2015
+project-date: 2015-01-05
 client: Marangoni
 category: Competences
 title: Business Intelligence
