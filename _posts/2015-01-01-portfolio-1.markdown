@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2015-01-01
-img: dwh.png
+img: submarine.png
 alt: image-alt
 project-date: 2015-01-01
 client: Marangoni
 category: Competences
-title: Data Warehousing
-description: 15-year experience in the modeling, development and maintenance of medium- until big-sized data warehouses. Proficiency in Oracle Database. Good expertise in several RDBMS like SQL Server, DB2, Teradata, ExaSol, Netezza and others
+title: Business Intelligence
+description: 15-year experience in Business Intelligence. Proficiency in SAP Business Objects and IBM Cognos. Knowledge of other reporting tools like Microstrategy and Microsoft SSRS
 
 ---
