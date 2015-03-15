@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2015-01-01
-img: safe.png
+img: cake.png
 alt: image-alt
 project-date: 2015-01-05
 client: Marangoni
 category: Competences
-title: Business Intelligence
-description: 15-year experience in Business Intelligence. Proficiency in SAP Business Objects and IBM Cognos. Knowledge of other reporting tools like Microstrategy and Microsoft SSRS
+title: ETL
+description: 15-year experience in the design and development of complex ETL flows. Good expertise in Oracle OWB/ODI, SAP Data Services, Informatica, Talend
 
 ---
