@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2015-01-01
+date: 2015-01-04
 img: bi.png
 alt: image-alt
 project-date: 2015-01-04
