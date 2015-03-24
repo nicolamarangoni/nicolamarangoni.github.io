@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2015-01-01
-img: cake.png
+img: etl.png
 alt: image-alt
 project-date: 2015-01-05
 client: Marangoni
