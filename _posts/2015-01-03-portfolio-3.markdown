@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2015-01-03
-img: game.png
+img: engineering.png
 alt: image-alt
 project-date: 2015-01-03
 client: Marangoni
