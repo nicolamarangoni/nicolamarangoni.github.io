@@ -2,12 +2,12 @@
 layout: default
 modal-id: 3
 date: 2015-01-03
-img: software.png
+img: engineering.png
 alt: image-alt
 project-date: 2015-01-03
 client: Marangoni
 category: Competences
-title: Software Development
-description: Proficiency in software development in PL/SQL and Java, knowledge of several programming languages like PHP and JavaScript. Experience with variuos XML-based technologies and JSON. Test driven development.
+title: Software Engineering
+description: Hands-on experiece in software engineering using well-known technologies like the Eclipse IDE, the Gradle build tool, the Subversion and Git revision control systems. Good knowledge of Atlassian Confluence and Jira (included installation and administration).
 
 ---
