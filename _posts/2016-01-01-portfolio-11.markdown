@@ -7,7 +7,7 @@ alt: image-alt
 project-date: 2016-01-01
 client: Marangoni
 category: Competences
-title: Architecture 1
-description: Proficiency in data modeling, experience with generic BI/DWH architectures.
+title: Data Science
+description: Experience in Data Science.
 
 ---
