@@ -8,6 +8,6 @@ project-date: 2016-01-01
 client: Marangoni
 category: Competences
 title: Data Science
-description: Experience in Data Science.
+description: Experience in Data Science
 
 ---

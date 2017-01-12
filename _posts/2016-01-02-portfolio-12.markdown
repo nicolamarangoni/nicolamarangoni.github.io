@@ -8,6 +8,6 @@ project-date: 2016-01-02
 client: Marangoni
 category: Competences
 title: Big Data
-description: Strong experience in Big Data technologies: Hadoop, Spark, HBase, Hive.
+description: Strong experience in Big Data technologies: Hadoop, Spark, HBase, Hive
 
 ---
