@@ -2,12 +2,12 @@
 layout: default
 modal-id: 11
 date: 2016-01-01
-img: architecture.png
+img: bigdata.png
 alt: image-alt
 project-date: 2016-01-01
 client: Marangoni
 category: Competences
-title: Data Science
-description: Experience in Data Science
+title: Big Data and Data Science
+description: Strong experience in Big Data technologies like Hadoop, Spark, HBase, Hive
 
 ---

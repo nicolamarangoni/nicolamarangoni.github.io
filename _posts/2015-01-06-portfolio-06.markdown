@@ -8,6 +8,6 @@ project-date: 2015-01-01
 client: Marangoni
 category: Competences
 title: Data Warehousing
-description: 15-year experience in the modeling, development and maintenance of medium- until big-sized data warehouses. Proficiency in Oracle Database. Good expertise in several RDBMS like SQL Server, DB2, Teradata, ExaSol, Netezza and others
+description: 15-year experience in the modeling, development and maintenance of medium- until big-sized data warehouses. Proficiency in Oracle Database. Good expertise in several RDBMS like SQL Server, DB2, Teradata, ExaSol, Netezza and others.
 
 ---
