@@ -7,7 +7,7 @@ alt: image-alt
 project-date: 2016-01-02
 client: Marangoni
 category: Competences
-title: Software Development
+title: Software Development 1
 description: Proficiency in software development in PL/SQL and Java, knowledge of several programming languages like PHP and JavaScript. Experience with variuos XML-based technologies and JSON. Test driven development.
 
 ---
