@@ -1,10 +1,9 @@
 # Site settings
 title: Nicola Marangoni
 email: nicola.marangoni@hotmail.com
-description: >-
-  I'm a passionate data engineer with focus on technology.
-url: http://marangoni.io
 description: "Data Engineer - Big Data - Database Specialist - Business Intelligence"
+url: http://marangoni.io
+
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
